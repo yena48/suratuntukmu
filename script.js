@@ -99,7 +99,7 @@ document.querySelector(".tombol").addEventListener('click', function () {
     	
     							Swal.fire({
 									title: '',
-    								html: `KALIMAT KETUJUH`,
+    								html: `KALIMAT KETUJUH :D`,
     								timer: 2700,
     								timerProgressBar: true,
     								showConfirmButton: false}).then((result) => {
